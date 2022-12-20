@@ -13,24 +13,17 @@ Sistema front-end do projeto de gereciamento de domínios domínios
  3.  Execute `npm install`
  4.  Excute o comando `npm run serve` e o sistema estará rodando
 
-## Project setup
+## Setup do Projeto
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minifica para produção
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
