@@ -1,4 +1,4 @@
-# ger-dominios-front-end-vue
+# Gestão de Domínios Front-End-vue
 
 ## Project setup
 ```
