@@ -1,9 +1,10 @@
 # Gestão de Domínios Front-End-vue
 
-Sistema front-end do projeto de gereciamento de domínios domínios
+Sistema front-end do projeto de gereciamento de domínios, com vue.js
 
 ## 🚀 Tecnologia utilizada
 * Vue.Js
+* Vue Cli
 * Bootstrapp 
 * Padrão de projeto Service
     
