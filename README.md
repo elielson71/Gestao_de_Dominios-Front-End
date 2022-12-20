@@ -5,7 +5,7 @@ Sistema front-end do projeto de gereciamento de domínios, com vue.js
 ## 🚀 Tecnologia utilizada
 * Vue.Js
 * Vue Cli
-* Bootstrapp 
+* Bootstrap
     
 ## 💻Para utilização do Projeto
  1.  Precisa do NodeJs Instalado
